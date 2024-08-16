@@ -1,0 +1,41 @@
+body
+{
+    font-family: "Rubik Bubbles", system-ui;
+    background: rgb(126, 126, 126);
+}
+
+.header_div
+{
+    background: rgb(124, 124, 124);
+    color: rgb(148, 0, 0);
+}
+
+.header_div p{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(173, 0, 0);
+    letter-spacing: 2px;
+    font: 12px, bold;
+}
+
+.main_div button{
+    font: 'Roboto', sans-serif, bolder;
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: rgb(159, 0, 0);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color:rgb(0, 0, 0);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgba(153, 57, 57, 0.288);
+}
+
+#img {
+    max-width: 230px;
+}
